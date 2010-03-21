@@ -1,0 +1,13 @@
+This script is (another) port of the famous John Conway's Game of life, this time 
+written using processing script language. 
+
+Here's the instructions:
+press 'p' at any time to pause the game, press again to resume;
+press 'i' or 'd' to increase or decrease the speed of the game;
+click on a square on the matrix to toggle its status (from black to white and vice versa), 
+you better do that while the game is in pause in order to design your desired organism. 
+
+My implementation is focused on keep as many logic as possible within a 'Spot' class which 
+acts like a single organism.
+
+more information are available here: http://sandropaganotti.com/2010/03/20/a-processing-org-game-of-life/ 
